@@ -1,0 +1,13 @@
+{
+  "name": "EcoShield Rwanda",
+  "description": "A smart climate change monitoring and adaptation platform for Rwanda, providing climate alerts, environmental education, and smart agricultural recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Climate Monitoring",
+    "Disaster Alerts",
+    "Smart Agriculture",
+    "Environmental Education"
+  ]
+}
